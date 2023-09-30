@@ -2,7 +2,7 @@
 
 ## 1. Prerequisites
 
-Visual Studio Code is installed.
+Visual Studio Code is installed. test
 Git is installed.
 You have a GitHub account.
 
